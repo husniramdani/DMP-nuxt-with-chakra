@@ -1,6 +1,6 @@
 <template>
   <CHeading text-align="center" mb="4">
-    ⚡️ Login Page
+    ⚡️ Login Page SZZSZSZSSZSZSZ
   </CHeading>
 </template>
 
